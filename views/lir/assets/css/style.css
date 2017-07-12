@@ -1,0 +1,23 @@
+.name-table{
+	color: #339999;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 35px;
+}
+p.thumbnail{
+	cursor: pointer;
+	text-align: center;
+}
+.thumbnail a{
+	text-decoration: none;
+	color: #fff;
+}
+.pointer-notifi{
+	cursor: pointer;
+}
+.fa{
+	font-size: 20px;
+}
+.nguoidung-span{
+	font-family: bold;
+}
